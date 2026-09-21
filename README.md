@@ -1,5 +1,5 @@
 <div align="center">
-    diganta
+
 # 🚀 Main Project
 
 ### Admin • Backend • Mobile
